@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="expires_2026_12_31">Expires: 2026-12-31</string>
+</resources>
